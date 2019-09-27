@@ -15,17 +15,17 @@ public class Utils {
     public static List<Animal> getAnimalsList() {
         List<Animal> animals = new ArrayList<>();
         animals.add(new Animal("Clifford", "Dog", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
-        animals.add(new Animal("", "", 4, true, getRandomDate()));
+        animals.add(new Animal("CatDog", "Cat/Dog", 4, true, getRandomDate()));
+        animals.add(new Animal("Stimpy", "Cat", 2, true, getRandomDate()));
+        animals.add(new Animal("Ren", "Dog", 2, true, getRandomDate()));
+        animals.add(new Animal("Cow-alsky", "Cow", 2, true, getRandomDate()));
+        animals.add(new Animal("Chik ken", "Chicken", 2, true, getRandomDate()));
+        animals.add(new Animal("Dumpling", "Dog", 4, true, getRandomDate()));
+        animals.add(new Animal("Tofu", "cat", 4, true, getRandomDate()));
+        animals.add(new Animal("Garfield", "Cat", 4, true, getRandomDate()));
+        animals.add(new Animal("Snowball", "Dog", 4, true, getRandomDate()));
+        animals.add(new Animal("Kimchi", "Cat", 4, true, getRandomDate()));
+        animals.add(new Animal("Com Nan", "Dog", 4, true, getRandomDate()));
         animals.add(new Animal("", "", 4, true, getRandomDate()));
         animals.add(new Animal("", "", 4, true, getRandomDate()));
         animals.add(new Animal("", "", 4, true, getRandomDate()));
